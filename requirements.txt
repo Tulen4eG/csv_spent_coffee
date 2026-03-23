@@ -1,0 +1,4 @@
+argparse==1.4.0
+statistics==1.0.3.5
+tabulate==0.10.0
+pytest==9.0.2
